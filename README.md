@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SethBlakley/SethBlakley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 🎓 Full Stack Web Developer
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks
@@ -18,4 +14,3 @@ Here are some ideas to get you started:
 
 -🔧 If I’m not programming, I'm likely studying the Russian Language or gaming
 
--->
